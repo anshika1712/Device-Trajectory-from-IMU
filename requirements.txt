@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+ipykernel
+scipy
+mpl-tools
+plotly
+filterpy
