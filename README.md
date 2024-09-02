@@ -16,3 +16,6 @@ Run the Streamlit app using:
   - `requirements.txt`: List of required packages.
   - `IMU_Data_1.csv`: IMU data file.
   - `Data Analysis.ipynb`: Jupyter notebook for data analysis.
+
+## Hosted App
+https://devicetrajectory.streamlit.app/
